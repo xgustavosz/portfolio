@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.84e6155f.css",
-    "main.js": "/portfolio/static/js/main.4bd46c3b.js",
+    "main.js": "/portfolio/static/js/main.694ecf71.js",
     "static/media/hi.png": "/portfolio/static/media/hi.51c1f59f3fb2671e3f72.png",
     "static/media/contact.png": "/portfolio/static/media/contact.edc478cd9a1625a23726.png",
     "static/media/photo.jpg": "/portfolio/static/media/photo.e7fefd38c1ce394ca2c6.jpg",
+    "static/media/ignite-timer-project.jpg": "/portfolio/static/media/ignite-timer-project.1c7d724df002d29ef21e.jpg",
     "static/media/space-grotesk-all-400-normal.woff": "/portfolio/static/media/space-grotesk-all-400-normal.625410290983f0e0895a.woff",
     "static/media/space-grotesk-latin-400-normal.woff2": "/portfolio/static/media/space-grotesk-latin-400-normal.0a4ba2bd1f7894e1cc0b.woff2",
     "static/media/space-grotesk-latin-ext-400-normal.woff2": "/portfolio/static/media/space-grotesk-latin-ext-400-normal.05e3af65b5da2af347ad.woff2",
     "static/media/space-grotesk-vietnamese-400-normal.woff2": "/portfolio/static/media/space-grotesk-vietnamese-400-normal.799f8d2e84c3f8dd8ca1.woff2",
     "index.html": "/portfolio/index.html",
     "main.84e6155f.css.map": "/portfolio/static/css/main.84e6155f.css.map",
-    "main.4bd46c3b.js.map": "/portfolio/static/js/main.4bd46c3b.js.map"
+    "main.694ecf71.js.map": "/portfolio/static/js/main.694ecf71.js.map"
   },
   "entrypoints": [
     "static/css/main.84e6155f.css",
-    "static/js/main.4bd46c3b.js"
+    "static/js/main.694ecf71.js"
   ]
 }
